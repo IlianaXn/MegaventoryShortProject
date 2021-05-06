@@ -4,6 +4,7 @@
   "description": "",
   "main": "insertOrder.js",
   "scripts": {
+    "insert": "node insertOrder.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
