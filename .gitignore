@@ -1,0 +1,4 @@
+DataInsertion/.env
+DataInsertion/node_modules
+DataInsertion/package-lock.json
+.idea
