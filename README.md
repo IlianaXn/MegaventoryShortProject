@@ -30,7 +30,8 @@ npm install
  * `insertInitialData.js` : There are the initial data provided above and a function for their insertion.
  * `insertOrder.js` : There is the specified above order, a function for the insertion of orders and another one for the insertion of this specific order.
 
-The implementation is pretty straightforward i.e. we build the data, and simply insert them.
+The implementation is pretty straightforward i.e. we build the data, and simply insert them.  
+This project can relate to a project executed from my team in the course 'Databases' in 2020, where we had to create a database for a chain store and show statistics based on the concluded transactions.  
 
 ##Note
 In order to run this project correctly you must create a `.env` file in the `DataInsertion` directory which will look like this:
